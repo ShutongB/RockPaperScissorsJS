@@ -4,9 +4,9 @@ The rock-paper-scissors project is a simple JavaScript application that allows u
 
 The purpose of creating this software was to further my learning as a software engineer and practice JavaScript programming. By building this project, I aimed to improve my understanding of JavaScript syntax, control flow, and event handling.
 
-In the YouTube demonstration video linked below, I provide a 4-5 minute walkthrough of the software running and explain the code structure and key concepts. The focus of the demonstration is to share what I learned about JavaScript language syntax and how it was applied in this project.
+In the YouTube demonstration video linked below, I provide a walkthrough of the software running and explain the code structure and key concepts. The focus of the demonstration is to share what I learned about JavaScript language syntax and how it was applied in this project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gLUBw72PMNM)
 
 # Development Environment
 
